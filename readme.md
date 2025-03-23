@@ -1,4 +1,4 @@
-Autoduper for anarchy servers
+Autoduper for anarchy servers like 6b6t
 
 [TUTORIAL](https://www.youtube.com/watch?v=UK6EKU7xdQ0)
 
@@ -10,4 +10,7 @@ z::
 Send, {'} {;} {'}
 return
 ```
-Autohotkey gang fr fr 🔥
+
+This was made in AutoHotkey and is an executable file that does not require the download of any other software. Take Care!
+
+Made with ❤️ in 🇦🇪

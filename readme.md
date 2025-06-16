@@ -1,4 +1,4 @@
-Autoduper for anarchy servers like 6b6t
+## Autoduper for anarchy servers like 6b6t
 
 [TUTORIAL (Youtube)](https://www.youtube.com/watch?v=UK6EKU7xdQ0)
 

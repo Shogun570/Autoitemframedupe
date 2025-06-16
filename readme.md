@@ -4,6 +4,6 @@ Autoduper for anarchy servers like 6b6t
 
 go to releases already smh
 
-This was made in AutoHotkey and is an executable file that does not require the download of any other software. Take Care!
+This was made in AutoHotkey and is an executable file that does NOT require the download of any other software. Enjoy!
 
 Made with ❤️ in 🇦🇪

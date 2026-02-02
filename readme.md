@@ -6,4 +6,4 @@ go to releases already smh
 
 This was made in AutoHotkey and is an executable file that does NOT require the download of any other software. Enjoy!
 
-Made with ❤️ in 🇦🇪
+Made with ❤️ in 🇴🇲
